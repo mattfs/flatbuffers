@@ -1,5 +1,5 @@
 [package]
-name = "flatbuffers"
+name = "flatbuffers_with_sec_fix"
 version = "0.7.0"
 authors = ["Robert Winslow <hello@rwinslow.com>", "FlatBuffers Maintainers"]
 license = "Apache-2.0"
